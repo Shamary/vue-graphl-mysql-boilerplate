@@ -1,0 +1,7 @@
+{
+    "name":"lunch app",
+    "script":"src/server.js",
+    "watch": true,
+    "exec_interpreter": "babel-node",
+    "exec_mode": "fork"
+}

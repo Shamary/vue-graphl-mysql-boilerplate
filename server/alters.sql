@@ -1,0 +1,5 @@
+use lunch_db;
+
+/*ALTER TABLE user ADD id INT NOT NULL AUTO_INCREMENT PRIMARY KEY;*/
+
+ALTER TABLE orders DROP COLUMN branch;
